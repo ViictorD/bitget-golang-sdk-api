@@ -1,9 +1,9 @@
 package common
 
 import (
-	"bitget/config"
-	"bitget/constants"
-	"bitget/internal"
+	"github.com/ViictorD/bitget-golang-sdk-api/config"
+	"github.com/ViictorD/bitget-golang-sdk-api/constants"
+	"github.com/ViictorD/bitget-golang-sdk-api/internal"
 	"io/ioutil"
 	"net/http"
 	"strings"

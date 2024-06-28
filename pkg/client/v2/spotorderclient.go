@@ -1,8 +1,8 @@
 package v2
 
 import (
-	"bitget/internal"
-	"bitget/internal/common"
+	"github.com/ViictorD/bitget-golang-sdk-api/internal"
+	"github.com/ViictorD/bitget-golang-sdk-api/internal/common"
 )
 
 type SpotOrderClient struct {

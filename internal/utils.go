@@ -1,7 +1,7 @@
 package internal
 
 import (
-	"bitget/constants"
+	"github.com/ViictorD/bitget-golang-sdk-api/constants"
 	"encoding/json"
 	"errors"
 	"net/http"

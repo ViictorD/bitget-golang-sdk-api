@@ -1,8 +1,8 @@
 package main
 
 import (
-	"bitget/internal/model"
-	"bitget/pkg/client/ws"
+	"github.com/ViictorD/bitget-golang-sdk-api/internal/model"
+	"github.com/ViictorD/bitget-golang-sdk-api/pkg/client/ws"
 	"fmt"
 )
 
