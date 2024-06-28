@@ -1,3 +1,7 @@
+# Fork
+
+Just a fork for import
+
 # Bitget Go
 
 使用此 sdk 前请阅读 api 文档 [Bitget API](https://bitgetlimited.github.io/apidoc/en/mix/)
